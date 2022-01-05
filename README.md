@@ -16,7 +16,7 @@ This is an idea to ensure that the monitoring systems not only actively particip
 * To alert the concerned authorities incase of detection of unusual activity. <br />
 *	Will take pictures when detecting motion and unusual activity. <br />
 *	Notification will be sent to the concerned authorities when a motion is detected. <br />
-# In our project, we have aimed to build such a surveillance system, which can not only detect motion but will also: <br />
+**In our project, we have aimed to build such a surveillance system, which can not only detect motion but will also:** <br />
 *	Warn the user of the intrusion. <br />
 *	Record the footage of the video from the moment the motion was detected. <br />
 *	Send Notification to the user when the Motion is Detected. <br />
