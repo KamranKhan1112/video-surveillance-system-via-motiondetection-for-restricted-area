@@ -28,8 +28,26 @@ This is an idea to ensure that the monitoring systems not only actively particip
 
 ## 1.	Main User Interface 
 
+![image](https://user-images.githubusercontent.com/72525676/148278679-a3ae98ff-5931-459d-ad5f-1a35905324a6.png)
+![image](https://user-images.githubusercontent.com/72525676/148279332-797166e6-d398-4165-9256-2316cdc0a22a.png)
 
- 
+## 2. Video capturing
+![image](https://user-images.githubusercontent.com/72525676/148280414-7562511d-6eeb-4b60-95d8-6a83f6d56bb5.png)
+
+## 3. Interface of Intruder detected 
+![image](https://user-images.githubusercontent.com/72525676/148280829-553f32f0-9187-4e29-90c2-2efff0572a26.png)
+
+## 4. Background Subtraction with contours in the frame
+
+## 5. Pictures Saved in local storage
+
+## 6. Videos Stored in a local storage
+
+## 7. Online Storage
+
+## 8. Sending Notification Alert
+
+## 9. Interface of Intruder detected
 
 
 
