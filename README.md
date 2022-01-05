@@ -32,22 +32,67 @@ This is an idea to ensure that the monitoring systems not only actively particip
 ![image](https://user-images.githubusercontent.com/72525676/148279332-797166e6-d398-4165-9256-2316cdc0a22a.png)
 
 ## 2. Video capturing
+
 ![image](https://user-images.githubusercontent.com/72525676/148280414-7562511d-6eeb-4b60-95d8-6a83f6d56bb5.png)
 
 ## 3. Interface of Intruder detected 
+
 ![image](https://user-images.githubusercontent.com/72525676/148280829-553f32f0-9187-4e29-90c2-2efff0572a26.png)
 
 ## 4. Background Subtraction with contours in the frame
 
+![image](https://user-images.githubusercontent.com/72525676/148282118-97b49f4b-e11b-4a7b-83d2-64d385be3e93.png)
+
 ## 5. Pictures Saved in local storage
+
+![image](https://user-images.githubusercontent.com/72525676/148281912-e9e0d666-86de-44de-91d6-3962972d974a.png)
 
 ## 6. Videos Stored in a local storage
 
+![image](https://user-images.githubusercontent.com/72525676/148282465-b849795a-6936-4b53-b1e1-f717b68b66cf.png)
+
 ## 7. Online Storage
+
+![image](https://user-images.githubusercontent.com/72525676/148282539-5376cfbb-a911-419d-9437-2fc3b334a85e.png)
+![image](https://user-images.githubusercontent.com/72525676/148282568-c5e98e56-63f7-47b9-9459-c06575132792.png)
 
 ## 8. Sending Notification Alert
 
-## 9. Interface of Intruder detected
+![image](https://user-images.githubusercontent.com/72525676/148282653-71fb48cb-9077-4f4f-8648-fb51cd880162.png)
+
+# Project Demo Link:
+
+[Video Surveillance System via Motion Detection for Restricted Area’s](?)
+
+
+# Technologies and Tools Used:
+
+*	OpenCV <br />
+*	Python <br />
+*	HTML <br />
+*	CSS <br />
+*	JS/Chart.js <br />
+*	Dropbox API<br />
+*	SMS API (twilio)
+
+# Credits:
+
+Developed and Designed By: 
+
+*	Kamran Khan <br />
+*	Farhan Khan <br />
+*	Muhammad Numan <br />
+	
+
+Supervised By: 
+
+* Engr. Zeeshan Danish (lecturer Department of Software Engineering, [University of Malakand](http://uom.edu.pk/), KP, Pakistan.)
+
+# Need Help:
+*	kameekhan1112@gmail.com
+*	farhankhan5825.fk@gmail.com
+*	mnumanmn123@gmail.com
+
 
 
 
